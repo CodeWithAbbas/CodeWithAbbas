@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithAbbas
-- 👀 I’m interested in FPGA
-- 🌱 I’m currently learning Vivado
+- 👀 I’m interested in Embedded system (Microcontroller & FPGA)
+- 🌱 I’m currently learning VHDL language in Vivado
 - 💞️ I’m looking to collaborate on Top level design 
 - 📫 How to reach me ... (18jzele0237@uetpeshawar.edu.pk)
 
